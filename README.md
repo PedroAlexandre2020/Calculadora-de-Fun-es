@@ -1,0 +1,1 @@
+Nesse Programa, estou utilizando numopy, sympy e tkinter para construir uma aplicação que recebe uma função (no formato x**2 + x = 1, por exemplo), e retorna alguns dados sobre essa função. Para executar, bata no terminal chegar ao diretório do projeto e digitar python main.py.
